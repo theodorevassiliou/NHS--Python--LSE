@@ -1,4 +1,4 @@
-# NHS--Python--LSE
+# NHS--Python--LSE- 75% Distinction
 
 1) Background of Business Scenario
  The NHS is finding it challenging to efficiently manage appointment bookings and reducing missed appointments across various service settings. A major issue is the high rate of unattended appointments, which in turn leads to recourses being used inefficiently which in turn leads to extended waiting times for other patients. This report will use the (EDA) data analysis framework to interpret trends in appointment types, the time between booking appointments and illustrating the busiest NHS periods (Congress, 1965). By comprehending all these factors, the NHS can become more efficient in tackling these business problems.
